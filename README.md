@@ -26,13 +26,13 @@ Or install it yourself as:
 
 To implement this in Rails, add the following code to your *application.css* and *application.js* files:
 
-**app/assets/javascripts/application.js
+**app/assets/javascripts/application.js**
 
 ```javascript
 //= require twitter/bootstrap
 ```
 
-**app/assets/stylesheets/application.css
+**app/assets/stylesheets/application.css**
 
 ```css
 *= require twitter/bootstrap
@@ -42,7 +42,7 @@ To implement this in Rails, add the following code to your *application.css* and
 
 Thanks to [Twitter](http://twitter.com) for [Bootstrap](http://twitter.github.io/bootstrap). It is awesome!
 
-Thanks to AnjLab for [bootstrap-rails](http://github.com/anjlab/bootstrap-rails/) and Seyhun Akyürek for [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) gems. If you have a production app, you may want to use their gems as they are likely better maintained and more stable. 
+Thanks to AnjLab for [bootstrap-rails](http://github.com/anjlab/bootstrap-rails/) and Seyhun Akyürek for [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) gems. They were the inspiration. If you have a production app, you may want to use their gems as they are likely better maintained and more stable. 
 
 
 ## Issues?

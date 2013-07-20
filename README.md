@@ -35,7 +35,9 @@ To implement this in Rails, add the following code to your *application.css* and
 **app/assets/stylesheets/application.css**
 
 ```css
+/*
 *= require twitter/bootstrap
+*/
 ```
 
 ## Thanks
